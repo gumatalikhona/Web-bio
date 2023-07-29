@@ -1,0 +1,19 @@
+body {
+    background-color: navajowhite;
+    color: darkgreen;
+    text-align: center;
+    
+}
+.profile-img{
+  width: 30%;
+  border-radius: 50%;
+  
+}
+.btn
+{
+  display: block ;
+  color: black ;
+  padding: 25px ;
+  background: white;
+  margin: 16px;
+}
